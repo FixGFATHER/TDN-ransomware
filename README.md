@@ -26,7 +26,7 @@ This project is strictly for educational purposes. The authors are not responsib
 1. **Clone the Repository**
 
     ```sh
-    [git clone https://github.com/yourusername/RDN-Ransomware-System.git](https://github.com/FixGFATHER/TDN-ransomware.git)
+    git clone https://github.com/yourusername/RDN-Ransomware-System.git
     cd RDN-Ransomware-System
     ```
 
