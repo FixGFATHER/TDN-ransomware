@@ -12,7 +12,7 @@ TDN Ransomware System is a simulated ransomware program designed for educational
 
 ## Disclaimer
 
-This project is strictly for educational purposes. The authors are not responsible for any misuse of this software. Use this tool responsibly and ethically.
+This project is strictly for educational purposes. The authors are not responsible for any misuse of this software. Use this tool responsibly and ethically. **Please read this disclaimer carefully before using the software.**
 
 ## Installation Guide
 
@@ -86,4 +86,10 @@ We welcome contributions to enhance the educational value of this project. Pleas
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
+
 This project is based on an educational ransomware demonstration originally created by Josh Madakor.
+
+## Watch the Live Demonstration
+
+Watch the live demonstration of TDN Ransomware System on YouTube: [How to Setup Ransomware for Educational Purposes](https://www.youtube.com/watch?v=D3x1-oWaePc)
+
