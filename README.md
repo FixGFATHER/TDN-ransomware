@@ -91,5 +91,8 @@ This project is based on an educational ransomware demonstration originally crea
 
 ## Watch the Live Demonstration
 
-Watch the live demonstration of TDN Ransomware System on YouTube: [How to Setup Ransomware for Educational Purposes](https://www.youtube.com/watch?v=D3x1-oWaePc)
+Watch the live demonstration of TDN Ransomware System below:
 
+[![How to Setup Ransomware for Educational Purposes](https://img.youtube.com/vi/D3x1-oWaePc/0.jpg)](https://www.youtube.com/watch?v=D3x1-oWaePc)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D3x1-oWaePc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
