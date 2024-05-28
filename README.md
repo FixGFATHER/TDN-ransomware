@@ -1,8 +1,8 @@
-# RDN Ransomware System
+# TDN Ransomware System
 
 ## Description
 
-RDN Ransomware System is a simulated ransomware program designed for educational purposes only. This system demonstrates the mechanics of file encryption and decryption typically employed by ransomware. **It is intended solely for learning and awareness. Do not use this tool for malicious activities.**
+TDN Ransomware System is a simulated ransomware program designed for educational purposes only. This system demonstrates the mechanics of file encryption and decryption typically employed by ransomware. **It is intended solely for learning and awareness. Do not use this tool for malicious activities.**
 
 ## Features
 
